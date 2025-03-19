@@ -2,7 +2,7 @@ Razvijeno s kolegama Vinkom Bohnecom, Mateom Zovićem, Antoniom Bernobićem. <br
 Izvorni kod, dokumentacija i video prikaz projekta za kolegij Programiranje ugrađenih sustava. Sadrži kod za 2 mikrokontrolera - odašiljač WiFi signala i primatelj WiFi signala. Projekt razvijen u PlatformIO ekstenziji za Visual Studio Code. Kod je razvijen za Dasduino CONNECTPLUS mikrokontrolere.<br>
 Iz projekta dobiveni svi bodovi. Kao posljedica projekta dobivena [pisana preporuka](https://github.com/JakovBegovic/Robot-upravljan-kontrolerom/blob/caef50e12dc3403a5f9ce1389835898fd6788e6c/Pismo%20preporuke%20za%20Jakova%20Begovi%C4%87a.pdf) dr. Borisa Tomaša.
 <br><br>
-Mapa 3D-modeli sadrži .stl datoteke. One predstavljaju gornji i donji dio kućišta daljinskog upravljača.
+Mapa [3D-modeli](https://github.com/JakovBegovic/Robot-upravljan-kontrolerom/tree/2fcbab7a2e5f61b7f1df8ae97a9870575ed1f150/3D-modeli) sadrži .stl datoteke. One predstavljaju gornji i donji dio kućišta daljinskog upravljača.
 <br><br>
 Za videozapis koji prikazuje kako robot funkcionira me kontaktirajte.
 <br><br>
