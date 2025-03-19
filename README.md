@@ -4,7 +4,7 @@ Iz projekta dobiveni svi bodovi. Kao posljedica projekta dobivena [pisana prepor
 <br><br>
 Mapa 3D-modeli sadrži .stl datoteke. One predstavljaju gornji i donji dio kućišta daljinskog upravljača.
 <br><br>
-Za videozapis koji prikazuje kako robot funkcionira me potrebno kontaktirati.
+Za videozapis koji prikazuje kako robot funkcionira me kontaktirajte.
 <br><br>
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
